@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Livraria Online</string>
+    <string name="header">Livraria Online</string>
+    <string name="footer">Footer</string>
+    <string name="book1_title">Livro 1</string>
+    <string name="book1_summary">Resumo do Livro 1</string>
+    <string name="book2_title">Livro 2</string>
+    <string name="book2_summary">Resumo do Livro 2</string>
+    <string name="book3_title">Livro 3</string>
+    <string name="book3_summary">Resumo do Livro 3</string>
+</resources>
